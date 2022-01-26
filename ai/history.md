@@ -1,0 +1,28 @@
+# Brief History of Deep Learning
+
+- **1943** - McCulloch & Pitts - nets of binary neurons can do logic.
+- **1947** - Donald Hebb - Hebbian synaptic plasticity.
+- **1948** - Norbert Wiener - cybernetics, optimal filter, feedback autopoiesis, auto-organization.
+- **1957** - Frank Rosenblatt - Perceptron.
+- **1961** - Bernie Widrow - Adaline.
+- **1962** - Hubel & Wiesel - visual cortex architecture. [Nobel Prize]
+- **1969** - Minsky & Papert - limits of the Perceptron.
+- **1970s** - statistical pattern recognition. [Duda & Hart 1973]
+- **1979** - Kinihiko Fukushima - Neo-cognition.
+- **1982** - Hopfield Nets.
+- **1983** - Hinton & Sejnowski - Boltzmann Machines.
+- **1985-86** - Practical backprop for NN training.
+- **1989** - CNN. [NeurIPS]
+- **1991** - Bottou & Gallinari - module-based automatic differentiation.
+- **1995** - Hochreiter & Schmidhuber - LSTM, RNN.
+- **1996** - structured prediction with NN, GNNs.
+- ***AI Winter***
+- **2003** - Yoshua Bengio - Neural Language Model.
+- **2006** - Layer-wise unsupervised pre-training of Deep NN.
+- **2010** - Collobert & Weston - Self-supervised NN for NLP.
+- **2012** - AlexNet, ConvNet on GPU, Object Classification.
+- **2015** - Sutskever - NMT with multi-layer LSTM.
+- **2015** - Weston, Chopra, Bordes - Memory Networks.
+- **2016** - Bahdanau, Cho, Bengio - GRU, attention mechanism.
+- **2016** - Kaiming He - ResNet.
+- **2017** - Vaswani - Transformers.
