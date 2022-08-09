@@ -1,0 +1,5 @@
+| Course Name                             | Offered By | Instructors   | Course URLs                                                  | Personal Coverage | My Resources                                                 |
+| --------------------------------------- | ---------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| Practical Deep Learning for Coders 2022 | fastai     | Jeremy Howard | **[[Course Website](https://course.fast.ai/)] [[YouTube Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)]** | Lesson 1          | [**[Notion](https://www.notion.so/fastai-Practical-Deep-Learning-for-Coders-aa027058d9e1445387170da78aa0a938)**] [**[GDrive](https://drive.google.com/drive/folders/1fTidexQ-bY-L5mFJnw1PIGk6rIZToSaF?usp=sharing)**] |
+|                                         |            |               |                                                              |                   |                                                              |
+

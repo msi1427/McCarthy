@@ -11,7 +11,8 @@
 
 # Tools
 
-
+- GluonCV (*for implementations and pretrained models of CV*) : https://cv.gluon.ai/ 
 
 # Others
 
+- Federated Learning - https://www.youtube.com/watch?v=k3V-WAUuR9U
